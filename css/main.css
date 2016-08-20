@@ -45,5 +45,5 @@ ul.posts li {
 .profile-photo {
     border-radius: 50%;
     border: 6px solid #fff;
-    max-width: 160px;
+    max-width: 100px;
 }
