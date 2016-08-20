@@ -46,4 +46,5 @@ ul.posts li {
     border-radius: 50%;
     border: 6px solid #fff;
     max-width: 100px;
+    float: left;
 }
