@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.profile-photo {
+    border-radius: 50%;
+    border: 6px solid #fff;
+    max-width: 160px;
+}
